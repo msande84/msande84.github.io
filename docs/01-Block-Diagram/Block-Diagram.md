@@ -6,7 +6,8 @@ tags:
 ---
 
 ## Overview
-* Things to mention are:
+Parts of the block diagram:
+* 8 EK1019 buttons
 * 74HC165 PISO
 * Analog 7 input from team
 * Digital 2 output
