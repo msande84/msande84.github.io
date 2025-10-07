@@ -7,10 +7,10 @@ tags:
 
 ## Overview
 Things to mention are:
-- 74HC165 PISO
-- Analog 7 input from team
-- Digital 2 output
-- 5V power from PIC Curiosity Nano board
+74HC165 PISO
+Analog 7 input from team
+Digital 2 output
+5V power from PIC Curiosity Nano board
 
 
 
