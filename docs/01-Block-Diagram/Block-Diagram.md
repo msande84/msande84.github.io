@@ -7,11 +7,10 @@ tags:
 
 ## Overview
 Things to mention are:
-* 5V 7805 TO-220
-* 74HC165 PISO
-* Analog 7 input from team
-* Digital 2 output
-* 5V power from battery
+- 74HC165 PISO
+- Analog 7 input from team
+- Digital 2 output
+- 5V power from battery
 
 
 
