@@ -6,19 +6,16 @@ tags:
 ---
 
 ## Overview
-This needs to be updated with a brief purpose for having the block diagram.
 Things to mention are:
-* power levels
-* sensor
-* Actuator
-* team connections
-* Power source
-* ...
-
-To get some initial formatting help, one can view ["here"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/basic-markdown-examples/) some basic techniques.
+* 5V 7805 TO-220
+* 74HC165 PISO
+* Analog 7 input from team
+* Digital 2 output
+* 5V power from battery
 
 
-## Example Block Diagram 
-Showing an example of how to import a screenshot of the block diagram created outside of git and brought into a page.
+
+## My Block Diagram 
+
 
 ![Example of Indivial Block diagram ](BlockDiagram.png)
