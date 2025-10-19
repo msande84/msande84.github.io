@@ -14,42 +14,6 @@ title: Component Selection
 | ![](74HC595D.png)<br>\* Option 2. <br>\* 74HC595D surface mount shift register <br>\* $0.63/each <br>\* [Link to product](https://www.mouser.com/ProductDetail/Toshiba/74HC595DBJ?qs=T%2FywbITssnTkqd02WdSNRg%3D%3D) | \* Meets surface mount constraint of project <br>\* High noise immunity <br> \* Directly outputs serial | * Exceeding absolute max ratings, even briefly lead to deterioration <br>\* Slow shipping speed                                                         |
 | ![](SN74HCS165.png)<br>\* Option 3. <br>\* SN74HCS165 surface mount shift register <br>\* $1.52/each <br>\* [Link to product](https://www.mouser.com/ProductDetail/Texas-Instruments/SN74HCS165DRG4?qs=vOcB1WHNNXLF%2FP4%252BuTSdXQ%3D%3D) | \* Meets surface mount constraint of project <br>\* Wide operating voltage range 2V to 6V <br> \* Directly outputs serial | * More expensive <br>\* Slow shipping speed                                                         |
 
-**Choice:** Option 2: CTX936TR-ND surface mount oscillator
+**Choice:** Option 1: 74HC165-Q100 surface mount shift register
 
-**Rationale:** A clock oscillator is easier to work with because it requires no external circuitry in order to interface with the PSoC. This is particularly important because we are not sure of the electrical characteristics of the PCB, which could affect the oscillation of a crystal. While the shipping speed is slow, according to the website if we order this week it will arrive within 3 weeks.
-
-### Style 2
-
-> Also acceptable, more markdown friendly
-
-**External Clock Module**
-
-1. XC1259TR-ND surface mount crystal
-
-    ![](image1.png)
-
-    * $1/each
-    * [link to product](http://www.digikey.com/product-detail/en/ECS-40.3-S-5PX-TR/XC1259TR-ND/827366)
-
-    | Pros                                      | Cons                                                             |
-    | ----------------------------------------- | ---------------------------------------------------------------- |
-    | Inexpensive                               | Requires external components and support circuitry for interface |
-    | Compatible with PSoC                      | Needs special PCB layout.                                        |
-    | Meets surface mount constraint of project |
-
-1. CTX936TR-ND surface mount oscillator
-
-    ![](image3.png)
-
-    * $1/each
-    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
-
-    | Pros                                                              | Cons                |
-    | ----------------------------------------------------------------- | ------------------- |
-    | Outputs a square wave                                             | More expensive      |
-    | Stable over operating temperature                                 | Slow shipping speed |
-    | Direct interface with PSoC (no external circuitry required) range |
-
-**Choice:** Option 2: CTX936TR-ND surface mount oscillator
-
-**Rationale:** A clock oscillator is easier to work with because it requires no external circuitry in order to interface with the PSoC. This is particularly important because we are not sure of the electrical characteristics of the PCB, which could affect the oscillation of a crystal. While the shipping speed is slow, according to the website if we order this week it will arrive within 3 weeks.
+**Rationale:** This shift register is the cheapest option and is not missing any needed features. The added benefits of the more expensive options do not add anything ciritical for this project so do not make sense to choose.
