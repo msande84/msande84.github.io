@@ -1,16 +1,12 @@
 ---
-title: Component Selection Example
+title: Component Selection
 ---
 
-## Examples
+## Components
 
-### Style 1
+*Table 1: Shift Register Options*
 
-> This is the example found in the assignment, uses more html
-
-*Table 1: Example component selection*
-
-**External Clock Module**
+**8-Bit Parallel in Serial out (PISO) Shift Register**
 
 | **Solution**                                                                                                                                                                                      | **Pros**                                                                                                                                    | **Cons**                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
