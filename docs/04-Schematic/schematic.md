@@ -4,11 +4,11 @@ title: Schematic
 
 ## Overview
 
-This schematic is design to support .... (highlight functionally, power, and controller).
+This schematic is design to take in input from 8 push buttons using a parallel in serial out (PISO) using the 74HC165-Q100.
 
 
 ![schematic](SchematicScreenshot.png){style width:"350" height:"300;"}
-**Figure ##:** Showing a example schematic.
+**Figure ##:** Showing my schematic of 8 push button inputs.
 
 
 ## Resouces
