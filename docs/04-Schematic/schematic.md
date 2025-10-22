@@ -13,4 +13,4 @@ This schematic is design to take in input from 8 push buttons using a parallel i
 
 ## Resouces
 
-The schematic as a PDF download is available [*here*](Subsytem.pdf), and the Zip folder of the project [*here*](dummyZip.zip).
+The schematic as a PDF download is available [*here*](Subsystem.pdf), and the Zip folder of the project [*here*](Subsystem-MLS.zip).
