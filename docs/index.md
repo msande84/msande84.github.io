@@ -28,8 +28,4 @@ Through this project, we seek not only to create a functional and reliable proto
 ### My Contribution
 
 * My portion of this project was focused on creating a keypad that will control the volume of our speaker as well as stop the alarm when the correct code is entered.
-* Content should also help an unfamiliar reader navigate to areas of interest. Information like:
 
-To review the details listed of the material used to construct the subsection, you can review it in the ["BOM"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/03-BOM/BOM/) section of the datasheet.
-
-For all the sections
