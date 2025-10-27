@@ -3,16 +3,14 @@ title: Power Budget
 ---
 
 ## Overview
-Write a overview of what you did and why you did a Power Budget.
-
-> Capture your power budge as a image to display. Take time to get clean breaks and a well organized layout.
+Here is a breakdown of how much power every major component of my subsystem uses. The main power draw is the Curiosity Nano board, while the shift register uses very little power.
 
 ![budget1](PowerBudget.png){style width:"350" height:"300;"}
 
 ## Conclusions
 
-From the prepare Power Budget, .....
+From the prepare Power Budget, we can conclude that pulling power solely from a wall outlet should be more than enough for the circuit to run correctly.
 
 ## Resouces
 
-The power budget as a PDF download is available [*here*](PowerBudgetExample.pdf), and a Microsoft Excel Sheet [*here*](PowerBudgetExample.xlsx).
+The power budget as a PDF download is available [*here*](PowerBudget.pdf), and a Microsoft Excel Sheet [*here*](PowerBudget.xlsx).
