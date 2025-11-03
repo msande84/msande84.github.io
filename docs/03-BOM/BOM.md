@@ -13,3 +13,5 @@ Here is my Bill of Materials. I ended up using the same parts as listed in the c
 **Figure 2:** Bill of Materials as a screenshot.
 
 As you can see, the text can be difficult to read without opening the image.
+
+You can download the Bill of Materials [*here*](BillofMaterials.xlsx)
