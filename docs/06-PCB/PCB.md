@@ -5,9 +5,11 @@ title: PCB
 ## Overview
 Here is my PCB
 
-![PCB Front](PCBFront.png){style width:"350" height:"300;"}
+![PCB](PCB.png){style width:"400" height:"400;"}
 
-![PCB Back](PCBBack.png){style width:"350" height:"300;"}
+![PCB Front](PCBFront.png){style width:"400" height:"400;"}
+
+![PCB Back](PCBBack.png){style width:"400" height:"400;"}
 
 ## Resouces
 
