@@ -13,4 +13,4 @@ Here is my PCB
 
 ## Resouces
 
-The PCB can be downloaded [*here*](PCB.pdf), and a Zip of the project [*here*](MLS_PCB.xlsx).
+The PCB can be downloaded [*here*](PCB.pdf), and a Zip of the project [*here*](MLS_PCB.zip).
