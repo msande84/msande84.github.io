@@ -3,7 +3,7 @@ title: Code
 ---
 
 ## Overview
-Here is my code for the microcontroller.
+Here is my code for the microcontroller. What my code does is send a clock signal to the shift register, it then reads the bits of the shift register. If it reads that the shift register detected a button pressed, it sends out the unlock signal.
 
 ```
 #include "mcc_generated_files/system/system.h"
