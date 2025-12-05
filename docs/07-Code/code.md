@@ -78,7 +78,7 @@ int main(void)
            
            
         }
-        printf("Buttons: 0x%02X\r\n", value);
+        
         if ((value & 0b00000001)!=0)
 
         {
