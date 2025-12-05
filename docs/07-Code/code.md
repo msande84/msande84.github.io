@@ -34,7 +34,7 @@ int main(void)
 
     while(1)
     {
-       
+        //test code that didn't work
         /*IO_RC3_SetHigh();
         //LATCbits.LATC4=(my_data>>ii)&(0b00000001); //shifts data out on RC4
         my_data=(LATCbits.LATC4>>1)&(0b00000001); //maybe reads RC4 and shifts data 1
@@ -49,9 +49,9 @@ int main(void)
         // Load parallel data into shift register
        
        
-        IO_RD4_SetHigh();    // return high
+        IO_RF6_SetHigh();    // return high
         __delay_ms(100);
-        IO_RD4_SetLow();     // PL low ? load
+        IO_RF6_SetLow();     // PL low ? load
 
         value = 0;
         // Read 8 bits
@@ -63,17 +63,17 @@ int main(void)
 
             // Shift in MSB-first
             value <<= 1;
-            if (PORTCbits.RC4)
+            if (PORTFbits.RF4)
             {
                 value |= 1;
             }
-            //value &= PORTCbits.RC4;   // read Q7 output
+            //value &= PORTFbits.RF4;   // read Q7 output
            
            
-            IO_RC3_SetHigh();
+            IO_RF5_SetHigh();
             __delay_ms(100);
 
-            IO_RC3_SetLow();
+            IO_RF5_SetLow();
             __delay_ms(100);
            
            
@@ -82,12 +82,12 @@ int main(void)
         if ((value & 0b00000001)!=0)
 
         {
-            IO_RC5_SetHigh();
+            IO_RB2_SetHigh();
             __delay_ms(20);
         }
         else
         {
-            IO_RC5_SetLow();
+            IO_RB2_SetLow();
             __delay_ms(20);
         }
         __delay_ms(20);
