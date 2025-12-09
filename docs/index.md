@@ -16,7 +16,7 @@ for<br>
 
 ## Introduction
 
-* This datasheet shows the details for Matthew Sanderson's portion of the Auto-Lock Door Sensor.
+* This datasheet shows the details for Matthew Sanderson's portion of the Smart Door Sensor.
 
 ### Project Summary
 
@@ -27,5 +27,5 @@ Through this project, we seek not only to create a functional and reliable proto
 
 ### My Contribution
 
-* My portion of this project was focused on creating a keypad that will control the volume of our speaker as well as stop the alarm when the correct code is entered.
+* My portion of this project was focused on creating a keypad that will control the door lock.
 
