@@ -9,7 +9,7 @@ Here is a breakdown of how much power every major component of my subsystem uses
 
 ## Conclusions
 
-From the prepare Power Budget, we can conclude that pulling power solely from a wall outlet should be more than enough for the circuit to run correctly. Given the low power requirements for everything even at max current draw it is very likely that my subsystem could be battery powered in a future design.
+From the prepared Power Budget, we can conclude that pulling power solely from a wall outlet should be more than enough for the circuit to run correctly. Given the low power requirements for everything even at max current draw it is very likely that my subsystem could be battery powered in a future design.
 
 ## Resouces
 
