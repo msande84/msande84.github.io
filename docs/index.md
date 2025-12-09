@@ -29,3 +29,5 @@ Through this project, we seek not only to create a functional and reliable proto
 
 * My portion of this project was focused on creating a keypad that will control the door lock.
 
+![Matthew](Matthew.jpg)
+**Figure 01** Mathew's Design
