@@ -13,7 +13,7 @@ Here is my PCB
 
 ![PCB-Front](PCB.jpg){style width:"400" height:"400;"}
 
-![PCB-Back](PCBBack.jpg){style width:"400" height:"400;"}
+![PCB-Back](PCB_Back.jpg){style width:"400" height:"400;"}
 
 ## Resouces
 
