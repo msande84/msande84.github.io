@@ -28,7 +28,7 @@ title: Component Selection
 | ![](WS-TASV_switch.png)<br>\* Option 2. <br>\* WS-TASV SMT Tact Switch <br>\* $0.21/each <br>\* [Link to product](https://www.mouser.com/ProductDetail/Wurth-Elektronik/435151014824?qs=OlC7AqGiEDkCCtReGm3ZVw%3D%3D) | \* Meets surface mount constraint of project <br>\* Long life expectancy <br> \* High quality | * Not impact resistant <br>\* Slow shipping speed <br>\* Difficult to mount                                                        |
 | ![](TS34-62-25-switch.png)<br>\* Option 3. <br>\* TS34-62-25-BK-100-SMT-TR Tactile Switch <br>\* $0.26/each <br>\* [Link to product](https://www.mouser.com/ProductDetail/Same-Sky/TS34-62-25-BK-100-SMT-TR?qs=efUn273yAhdJc%2FOpc3t49g%3D%3D) | \* Inexpensive <br>\* Long life expectancy <br> \* Wide power range | * Small button <br>\* Slow shipping speed                                                         |
 
-**Choice:** Option 1: PTS Tavtile Switch
+**Choice:** Option 1: PTS Tactile Switch
 
 **Rationale:** This switch is inexpensive, easy to mount, and has a large enough button.
 
@@ -40,8 +40,8 @@ title: Component Selection
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | ![](AOT2618-MOSFET.png)<br>\* Option 1.<br>\* AOT2618L TO-220 MOSFET <br>\* $1.66/each<br>\* [link to product](https://www.digikey.com/en/products/detail/alpha-omega-semiconductor-inc/AOT2618L/3603378)                 | \* Inexpensive<br>\* Meets voltage requirements of project <br>\* Low power loss when switching                                             | \* Slow shipping speed |
 | ![](IPP038N15NM6AKSA1_MOSFET.png)<br>\* Option 2. <br>\* IPP038N15NM6AKSA1 PG-TO220-3 MOSFET <br>\* $5.16/each <br>\* [Link to product](https://www.mouser.com/ProductDetail/Infineon-Technologies/IPP038N15NM6AKSA1?qs=7%2F6SraaimPQ1Q6UGpNL1jg%3D%3D) | \* Meets voltage requirements of project <br>\* Superior thermal resistance <br> \* Lead free | * More expensive <br>\* Slow shipping speed                                                         |
-| ![](LM7805-MOSFET.png)<br>\* Option 3. <br>\* LM7805C TO-220 MOSFET <br>\* $1.80/each <br>\* [Link to product](https://www.mouser.com/ProductDetail/Texas-Instruments/LM7805CT-NOPB?qs=OYMYEaN9QmBS2GvaX6GSkQ%3D%3D) | \* Meets voltage requirements of project <br>\* Easy to use <br> \* Internal thermal overload protection | * Slow shipping speed                                                         |
+| ![](LM7805-MOSFET.png)<br>\* Option 3. <br>\* LM7805C TO-220 Voltage Regulator <br>\* $1.80/each <br>\* [Link to product](https://www.mouser.com/ProductDetail/Texas-Instruments/LM7805CT-NOPB?qs=OYMYEaN9QmBS2GvaX6GSkQ%3D%3D) | \* Meets voltage requirements of project <br>\* Easy to use <br> \* Internal thermal overload protection | * Slow shipping speed                                                         |
 
-**Choice:** Option 1: AOT2618L TO-220 MOSFET
+**Choice:** Option 3: LM7805C Voltage Regulator
 
 **Rationale:** This voltage regulator is inexpensive, meets the voltage requirements, and we already have it.
